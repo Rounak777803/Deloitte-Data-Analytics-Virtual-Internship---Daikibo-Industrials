@@ -94,3 +94,5 @@ Data Analysis & Classification: Ability to extract meaningful insights and categ
 Business Intelligence & Data Visualization: Competent in building foundational visualizations to answer specific business questions.
 
 Problem-Solving: Addressed real-world data challenges (e.g., messy JSON, business rule implementation) to deliver actionable results.
+
+Certificate:https://forage-uploads-prod.s3.amazonaws.com/completion-certificates/9PBTqmSxAf6zZTseP/io9DzWKe3PTsiS6GG_9PBTqmSxAf6zZTseP_wg2z4fkWmpP3j4RSn_1744391901597_completion_certificate.pdf
